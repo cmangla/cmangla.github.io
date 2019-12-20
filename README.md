@@ -1,3 +1,5 @@
+I'm a PhD candidate at the [University of Cambridge](https://www.cam.ac.uk), [Department of Computer Science and Technology](https://www.cst.cam.ac.uk). My topic is [Machine Learning for Automated Theorem Proving](https://gtr.ukri.org/projects?ref=studentship-1788755) and I'm supervised by [Prof. Larry Paulson](https://www.cl.cam.ac.uk/~lp15/) and [Dr. Sean Holden](https://www.cl.cam.ac.uk/~sbh11/).
+
 I'm hoping to improve first-order logic theorem provers by augmenting their heuristics with inference based on data from previous proof attempts.
 
 # Education
