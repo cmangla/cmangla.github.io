@@ -16,6 +16,8 @@ I'm hoping to improve first-order logic theorem provers by augmenting their heur
 # Work Experience
 
 <dl>
+  <dt>(Jun 2020 &mdash; Sep 2020) Research Internship, Amazon Web Services</dt>
+  <dd>Bayesian Optimisation for strategy invention in MiniSat solver. Optimisation of solver backends in the Dafny prover.</dd>
   <dt>(Sep 2019 &mdash; Nov 2019) Research Internship, Amazon Web Services</dt>
   <dd>Optimisation of backend solver parameters in CBMC using bayesian optimisation.</dd>
   <dt>(Aug 2015 &mdash; Nov 2015) Internship, Computer Lab, University of Cambridge</dt>
