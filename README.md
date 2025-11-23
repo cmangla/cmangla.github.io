@@ -5,17 +5,19 @@ I'm hoping to improve first-order logic theorem provers by augmenting their heur
 # Education
 
 <dl>
-  <dt>(2016 &mdash; 2020) PhD in Computer Science, University of Cambridge</dt>
+  <dt>(2025) PhD in Computer Science, University of Cambridge</dt>
   <dd>Topic: Machine Learning for Automated Theorem Proving</dd>
-  <dt>(2014 &mdash; 2015) MPhil in Advanced Computer Science, University of Cambridge</dt>
+  <dt>(2015) MPhil in Advanced Computer Science, University of Cambridge</dt>
   <dd>Result: Distinction</dd>
-  <dt>(2003 &mdash; 2007) B.Sc (Hons) Computer Science with Industrial Experience, University of Manchester</dt>
+  <dt>(2007) B.Sc (Hons) Computer Science with Industrial Experience, University of Manchester</dt>
   <dd>Result: First Class Honours</dd>
 </dl>
 
 # Work Experience
 
 <dl>
+  <dt>(Oct 2023 &mdash; Dec 2023) Research Internship, Nokia Bell Labs</dt>
+  <dd>Reinforcement learning for wireless mobile networks.</dd>
   <dt>(Jun 2020 &mdash; Sep 2020) Research Internship, Amazon Web Services</dt>
   <dd>Bayesian Optimisation for strategy invention in MiniSat solver. Optimisation of solver backends in the Dafny prover.</dd>
   <dt>(Sep 2019 &mdash; Nov 2019) Research Internship, Amazon Web Services</dt>
